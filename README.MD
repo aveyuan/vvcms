@@ -31,3 +31,8 @@
 - linux安装 http://www.vvcms.cn/book/4
 - windows安装 http://www.vvcms.cn/book/5
 - 登录后台 http://www.vvcms.cn/book/6
+
+
+## 联系与反馈
+QQ群:596406243
+留言:https://www.vvcms.cn/message
