@@ -1,13 +1,18 @@
-## 微微CMS
+## 微微CMS3
+
 >本CMS使用GO开发,采用编译发行,拥有丰富的使用文档和前端开发文档！
+
+**重构版本微微CMS3，更快，更安全，更轻量**
+
 
 特点:免费,快速，无需任何依赖环境,直接双击就能启动，跨平台，轻量，高并发全功能CMS
 
 **真正免费，无套路，无需注册，登录，获取授权，无后门，无监听等操作**
 
-- 官网:http://www.vvcms.cn
-- 使用文档:http://www.vvcms.cn/book
-- 开发文档:http://www.vvcms.cn/dev
+- 官网:https://www.vvcms.cn
+- 使用文档:https://www.vvcms.cn/doc
+- 开发文档:https://www.vvcms.cn/dev
+- 下载地址：https://www.vvcms.cn/download
 
 
 ## 视频教程
@@ -24,15 +29,13 @@
 
 
 ## 演示:
- http://demo.vvcms.cn/admin 
- 账号:admin 密码:123456
+前台： https://demo.vvcms.cn
+后台： https://demo.vvcms.cn/admin 
+后台账号:admin 密码:12345678
 
-## 使用文档
-- linux安装 http://www.vvcms.cn/book/4
-- windows安装 http://www.vvcms.cn/book/5
-- 登录后台 http://www.vvcms.cn/book/6
 
 
 ## 联系与反馈
 QQ群:596406243
+QQ号:491333873
 留言:https://www.vvcms.cn/message
